@@ -1,52 +1,164 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
-layout: frontpage
-header:
-  image_fullwidth: header_unsplash_12.jpg
-widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
-#
-# Use the call for action to show a button on the frontpage
-#
-# To make internal links, just use a permalink like this
-# url: /getting-started/
-#
-# To style the button in different colors, use no value
-# to use the main color or success, alert or secondary.
-# To change colors see sass/_01_settings_colors.scss
-#
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+layout: page-fullwidth
+title: ""
+subheadline: ""
+teaser: "Interested in <em>any</em> of this items. Don't wait; send us an email to <a href=\"mailto:baity1401@gmail.com\">baity1401@gmail.com</a>."
 permalink: /index.html
-#
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
 homepage: true
----
+header:
+    title: Moving Sale
+    image_fullwidth: b-moving-sale-1-rsz.jpeg 
+tawkto: true
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+---
+<!--more-->
+
+<div class="row t30">
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/washer-dryer">
+        <img src="{{ site.urlimg }}b-washer-dryer-main.jpg" alt="">
+        <p> 
+	Whirlpool Washer and Dryer
+	<mark>$200</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/armchair">
+        <img src="{{ site.urlimg }}b-armchair-main.jpg" alt="">
+        <p> 
+	IKEA POÄNG Chair
+	<mark>$55</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/red-table">
+        <img src="{{ site.urlimg }}b-red-table-main.jpg" alt="">
+        <p> 
+	IKEA KRITTER Red Table
+	<mark>$15</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/chest">
+        <img src="{{ site.urlimg }}b-chest-main.jpg" alt="">
+        <p> 
+	IKEA HEMNES 2-Drawer Chest
+	<mark>$60</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/table-lamp">
+        <img src="{{ site.urlimg }}b-table-lamp-main.jpg" alt="">
+        <p> 
+	IKEA Table Lamp
+	<mark>$15</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/white-chair">
+        <img src="{{ site.urlimg }}b-white-chair-main.jpg" alt="">
+        <p> 
+	IKEA INGOLF White Chair
+	<mark>$30</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/microwave">
+        <img src="{{ site.urlimg }}b-microwave-main.jpg" alt="">
+        <p> 
+	Emerson 700W Microwave
+	<mark>$15</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/toaster">
+        <img src="{{ site.urlimg }}b-toaster-main.jpg" alt="">
+        <p> 
+	Cuisinart Toaster
+	<mark>$10</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/four-chairs">
+        <img src="{{ site.urlimg }}b-four-chairs-main.jpg" alt="">
+        <p> 
+	IKEA LAVER Dining Chairs x4
+	<mark>$20</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/rug">
+        <img src="{{ site.urlimg }}b-rug-main.jpg" alt="">
+        <p> 
+	IKEA ÅDUM Rug 5'7"x7'10"
+	<mark>$40</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/sofa">
+        <img src="{{ site.urlimg }}b-sofa-main.jpg" alt="">
+        <p> 
+	IKEA SOLSTA Sofa Bed
+	<mark>$30</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/shoe-rack">
+        <img src="{{ site.urlimg }}b-shoe-rack-main.jpg" alt="">
+        <p> 
+	IKEA TJUSIG Shoe Rack
+	<mark>$10</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/floor-lamp">
+        <img src="{{ site.urlimg }}b-floor-lamp-main.jpg" alt="">
+        <p> 
+	IKEA ALÄNG Floor Lamp
+	<mark>$20</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/metal-shade-lamp">
+        <img src="{{ site.urlimg }}b-metal-shade-main.jpg" alt="">
+        <p> 
+	IKEA LERSTA Floor Lamp
+	<mark>$10</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
