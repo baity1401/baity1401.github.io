@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: ""
 subheadline: ""
-teaser: "Interested in <em>any</em> of this items. Don't wait; send us an email to <a href=\"mailto:baity1401@gmail.com\">baity1401@gmail.com</a>."
+teaser: "Interested in <em>any</em> of these items. Don't wait; send us an email to <a href=\"mailto:baity1401@gmail.com\">baity1401@gmail.com</a>."
 permalink: /index.html
 homepage: true
 header:
