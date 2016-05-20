@@ -11,7 +11,6 @@ header:
 gallery:
     - image_url: b-brio-table-01.jpg
     - image_url: b-brio-table-02.jpg
-    - image_url: b-brio-table-03.jpg
     - image_url: b-brio-table-04.jpg
     - image_url: b-brio-table-05.jpg
     - image_url: b-brio-table-06.jpg
