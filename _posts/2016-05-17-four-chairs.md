@@ -1,23 +1,33 @@
 ---
 layout: page
 sidebar: right
-subheadline:  "IKEA KRITTER"
-title:  "Red Table"
+subheadline:  "IKEA LAVER"
+title:  "Four Chairs"
 tags:
     - post format
 header:
     title: ""
-    image_fullwidth: "b-red-table-bg.jpg"
+    image_fullwidth: "b-four-chairs-bg.jpeg"
 gallery:
-    - image_url: b-red-table-1.jpg
-    - image_url: b-red-table-2.jpg
-    - image_url: b-red-table-3.jpg
+    - image_url: b-four-chairs-01.jpg
+    - image_url: b-four-chairs-02.jpg
+    - image_url: b-four-chairs-03.jpg
+    - image_url: b-four-chairs-04.jpg
+    - image_url: b-four-chairs-05.jpg
+    - image_url: b-four-chairs-06.jpg
+    - image_url: b-four-chairs-07.jpg
+    - image_url: b-four-chairs-08.jpg
+    - image_url: b-four-chairs-09.jpg
+    - image_url: b-four-chairs-10.jpg
+    - image_url: b-four-chairs-11.jpg
+    - image_url: b-four-chairs-12.jpg
 show_meta: false
+tawkto: true
 ---
-`$55`
+`$20`
 
-Beautiful red table only for the fraction of its original price. This color has been discontinued by IKEA.
-
+- Comfortable, sturdy, lightweight. 
+- Stackable for easy storage.
 
 <p>Click on any image below to see the full sized </p>
 

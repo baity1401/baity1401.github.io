@@ -8,6 +8,15 @@ permalink: "/contact/"
 header:
     title: "Contact"
     image_fullwidth: "b-contact-rsz.jpeg"
+tawkto: true
 ---
 
 We are located on Mason Farm Road in Chapel Hill, NC.
+
+Here is the map 
+
+![map 1]({{ site.url }}/images/map.jpg)
+
+<p> and a close-up. </p>
+
+![map 2]({{ site.url }}/images/map2.jpg)

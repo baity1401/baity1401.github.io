@@ -153,8 +153,18 @@ tawkto: true
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
+    	<a href="{{ site.url }}/brio-table">
+        <img src="{{ site.urlimg }}b-brio-table-main.jpg" alt="">
+        <p> 
+	Brio Train Table
+	<mark>$25</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
     	<a href="{{ site.url }}/metal-shade-lamp">
-        <img src="{{ site.urlimg }}b-metal-shade-main.jpg" alt="">
+        <img src="{{ site.urlimg }}b-metal-shade-lamp-main.jpg" alt="">
         <p> 
 	IKEA LERSTA Floor Lamp
 	<mark>$10</mark>
