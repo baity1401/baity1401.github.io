@@ -100,7 +100,7 @@ tawkto: true
 
     <div class="medium-4 columns">
     	<a href="{{ site.url }}/four-chairs">
-        <img src="{{ site.urlimg }}b-four-chairs-main.jpg" alt="">
+        <img src="{{ site.urlimg }}b-four-chairs-main.jpeg" alt="">
         <p> 
 	IKEA LAVER Dining Chairs x4
 	<mark>$20</mark>
