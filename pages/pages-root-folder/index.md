@@ -61,7 +61,7 @@ tawkto: true
         <img src="{{ site.urlimg }}b-armchair-main.jpg" alt="">
         <p> 
 	IKEA POÄNG Chair
-	<mark>$55</mark>
+	<mark>$65</mark>
 	</p>
 	</a>
     </div><!-- /.medium-4.columns -->
