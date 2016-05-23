@@ -36,10 +36,11 @@ tawkto: true
 
     <div class="medium-4 columns">
     	<a href="{{ site.url }}/red-table">
-        <img src="{{ site.urlimg }}b-red-table-main.jpg" alt="">
+        <img src="{{ site.urlimg }}b-red-table-main.jpeg" alt="">
         <p> 
 	IKEA KRITTER Red Table
 	<mark>$15</mark>
+	`SOLD`
 	</p>
 	</a>
     </div><!-- /.medium-4.columns -->
@@ -48,20 +49,22 @@ tawkto: true
 <div class="row t30">
     <div class="medium-4 columns">
     	<a href="{{ site.url }}/chest">
-        <img src="{{ site.urlimg }}b-chest-main.jpg" alt="">
+        <img src="{{ site.urlimg }}b-chest-main.jpeg" alt="">
         <p> 
 	IKEA HEMNES 2-Drawer Chest
 	<mark>$60</mark>
+	SOLD
 	</p>
 	</a>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
     	<a href="{{ site.url }}/table-lamp">
-        <img src="{{ site.urlimg }}b-table-lamp-main.jpg" alt="">
+        <img src="{{ site.urlimg }}b-table-lamp-main.jpeg" alt="">
         <p> 
 	IKEA Table Lamp
 	<mark>$15</mark>
+	SOLD
 	</p>
 	</a>
     </div><!-- /.medium-4.columns -->
@@ -104,6 +107,7 @@ tawkto: true
         <p> 
 	IKEA LAVER Dining Chairs x4
 	<mark>$20</mark>
+	SOLD
 	</p>
 	</a>
     </div><!-- /.medium-4.columns -->
@@ -154,10 +158,11 @@ tawkto: true
 
     <div class="medium-4 columns">
     	<a href="{{ site.url }}/brio-table">
-        <img src="{{ site.urlimg }}b-brio-table-main.jpg" alt="">
+        <img src="{{ site.urlimg }}b-brio-table-main.jpeg" alt="">
         <p> 
 	Brio Train Table
 	<mark>$25</mark>
+	SOLD
 	</p>
 	</a>
     </div><!-- /.medium-4.columns -->
