@@ -57,11 +57,12 @@ tawkto: true
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-    	<a href="{{ site.url }}/sofa">
-        <img src="{{ site.urlimg }}b-sofa-main.jpg" alt="">
+    	<a href="{{ site.url }}/metal-shade-lamp">
+        <img src="{{ site.urlimg }}b-metal-shade-lamp-main.jpeg" alt="">
         <p> 
-	IKEA SOLSTA Sofa Bed
-	<mark>$30</mark>
+	IKEA LERSTA Floor Lamp
+	<mark>$10</mark>
+	SOLD
 	</p>
 	</a>
     </div><!-- /.medium-4.columns -->
@@ -169,14 +170,4 @@ tawkto: true
 	</a>
     </div><!-- /.medium-4.columns -->
 
-    <div class="medium-4 columns">
-    	<a href="{{ site.url }}/metal-shade-lamp">
-        <img src="{{ site.urlimg }}b-metal-shade-lamp-main.jpeg" alt="">
-        <p> 
-	IKEA LERSTA Floor Lamp
-	<mark>$10</mark>
-	SOLD
-	</p>
-	</a>
-    </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
