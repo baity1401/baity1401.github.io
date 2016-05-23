@@ -25,6 +25,38 @@ tawkto: true
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
+    	<a href="{{ site.url }}/microwave">
+        <img src="{{ site.urlimg }}b-microwave-main.jpg" alt="">
+        <p> 
+	Emerson 700W Microwave
+	<mark>$15</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/toaster">
+        <img src="{{ site.urlimg }}b-toaster-main.jpg" alt="">
+        <p> 
+	Cuisinart Toaster
+	<mark>$10</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/rug">
+        <img src="{{ site.urlimg }}b-rug-main.jpg" alt="">
+        <p> 
+	IKEA ÅDUM Rug 5'7"x7'10"
+	<mark>$40</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
     	<a href="{{ site.url }}/armchair">
         <img src="{{ site.urlimg }}b-armchair-main.jpg" alt="">
         <p> 
@@ -47,11 +79,11 @@ tawkto: true
 
 <div class="row t30">
     <div class="medium-4 columns">
-    	<a href="{{ site.url }}/rug">
-        <img src="{{ site.urlimg }}b-rug-main.jpg" alt="">
+    	<a href="{{ site.url }}/shoe-rack">
+        <img src="{{ site.urlimg }}b-shoe-rack-main.jpg" alt="">
         <p> 
-	IKEA ÅDUM Rug 5'7"x7'10"
-	<mark>$40</mark>
+	IKEA TJUSIG Shoe Rack
+	<mark>$15</mark>
 	</p>
 	</a>
     </div><!-- /.medium-4.columns -->
@@ -63,38 +95,6 @@ tawkto: true
 	IKEA LERSTA Floor Lamp
 	<mark>$10</mark>
 	SOLD
-	</p>
-	</a>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-    	<a href="{{ site.url }}/shoe-rack">
-        <img src="{{ site.urlimg }}b-shoe-rack-main.jpg" alt="">
-        <p> 
-	IKEA TJUSIG Shoe Rack
-	<mark>$15</mark>
-	</p>
-	</a>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
-
-<div class="row t30">
-    <div class="medium-4 columns">
-    	<a href="{{ site.url }}/microwave">
-        <img src="{{ site.urlimg }}b-microwave-main.jpg" alt="">
-        <p> 
-	Emerson 700W Microwave
-	<mark>$15</mark>
-	</p>
-	</a>
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns">
-    	<a href="{{ site.url }}/toaster">
-        <img src="{{ site.urlimg }}b-toaster-main.jpg" alt="">
-        <p> 
-	Cuisinart Toaster
-	<mark>$10</mark>
 	</p>
 	</a>
     </div><!-- /.medium-4.columns -->
