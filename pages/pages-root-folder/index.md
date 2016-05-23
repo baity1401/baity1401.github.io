@@ -19,7 +19,7 @@ tawkto: true
         <img src="{{ site.urlimg }}b-washer-dryer-main.jpg" alt="">
         <p> 
 	Whirlpool Washer and Dryer
-	<mark>$200</mark>
+	<mark>$250</mark>
 	</p>
 	</a>
     </div><!-- /.medium-4.columns -->

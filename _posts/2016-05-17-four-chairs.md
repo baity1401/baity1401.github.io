@@ -2,7 +2,7 @@
 layout: page
 sidebar: right
 subheadline:  "IKEA LAVER"
-title:  "Four Chairs"
+title:  "Four Chairs SOLD"
 tags:
     - post format
 header:

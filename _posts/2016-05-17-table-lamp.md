@@ -2,7 +2,7 @@
 layout: page
 sidebar: right
 subheadline:  "IKEA MALIN TRÅD / RODD"
-title:  "Table Lamp"
+title:  "Table Lamp SOLD"
 tags:
     - post format
 header:
