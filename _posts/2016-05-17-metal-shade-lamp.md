@@ -2,7 +2,7 @@
 layout: page
 sidebar: right
 subheadline:  "IKEA LERSTA"
-title:  "Floor/reading lamp, aluminum"
+title:  "Floor/reading lamp, aluminum SOLD"
 tags:
     - post format
 header:

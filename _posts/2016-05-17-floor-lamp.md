@@ -2,7 +2,7 @@
 layout: page
 sidebar: right
 subheadline:  "IKEA ALÄNG"
-title:  "Floor Lamp"
+title:  "Floor Lamp SOLD"
 tags:
     - post format
 header:
