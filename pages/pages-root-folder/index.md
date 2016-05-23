@@ -139,7 +139,7 @@ tawkto: true
         <img src="{{ site.urlimg }}b-shoe-rack-main.jpg" alt="">
         <p> 
 	IKEA TJUSIG Shoe Rack
-	<mark>$10</mark>
+	<mark>$15</mark>
 	</p>
 	</a>
     </div><!-- /.medium-4.columns -->
