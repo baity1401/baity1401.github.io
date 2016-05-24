@@ -47,11 +47,11 @@ tawkto: true
 
 <div class="row t30">
     <div class="medium-4 columns">
-    	<a href="{{ site.url }}/rug">
-        <img src="{{ site.urlimg }}b-rug-main.jpg" alt="">
+    	<a href="{{ site.url }}/white-chair">
+        <img src="{{ site.urlimg }}b-white-chair-main.jpg" alt="">
         <p> 
-	IKEA ÅDUM Rug 5'7"x7'10"
-	<mark>$40</mark>
+	IKEA INGOLF White Chair
+	<mark>$30</mark>
 	</p>
 	</a>
     </div><!-- /.medium-4.columns -->
@@ -67,23 +67,25 @@ tawkto: true
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-    	<a href="{{ site.url }}/white-chair">
-        <img src="{{ site.urlimg }}b-white-chair-main.jpg" alt="">
-        <p> 
-	IKEA INGOLF White Chair
-	<mark>$30</mark>
-	</p>
-	</a>
-    </div><!-- /.medium-4.columns -->
-</div><!-- /.row -->
-
-<div class="row t30">
-    <div class="medium-4 columns">
     	<a href="{{ site.url }}/shoe-rack">
         <img src="{{ site.urlimg }}b-shoe-rack-main.jpg" alt="">
         <p> 
 	IKEA TJUSIG Shoe Rack
 	<mark>$15</mark>
+	</p>
+	</a>
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-4 columns">
+    	<a href="{{ site.url }}/rug">
+        <img src="{{ site.urlimg }}b-rug-main.jpeg" alt="">
+        <p> 
+	IKEA ÅDUM Rug 5'7"x7'10"
+	<mark>$40</mark>
+	SOLD
 	</p>
 	</a>
     </div><!-- /.medium-4.columns -->
