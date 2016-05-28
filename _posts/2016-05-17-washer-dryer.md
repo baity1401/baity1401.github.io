@@ -2,7 +2,7 @@
 layout: page
 sidebar: right
 subheadline:  "Whirlpool"
-title:  "Washer and Dryer"
+title:  "Washer and Dryer SOLD"
 tags:
     - post format
 header:
