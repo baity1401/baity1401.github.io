@@ -2,7 +2,7 @@
 layout: page
 sidebar: right
 subheadline:  "Emerson"
-title:  "700W Microwave"
+title:  "700W Microwave SOLD"
 tags:
     - post format
 header:
